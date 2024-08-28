@@ -1,0 +1,225 @@
+KO'ed
+has fallen!
+is out!
+revives!
+Poison
+is poisoned!
+is freed of poison!
+Blind
+becomes blind!
+is blinded!
+is no longer blinded!
+Silence
+doesn't feel worthwhile.
+wants to do cool moves again!
+Confusion
+became very confused...
+is confused...
+is no longer confused!
+Sleep
+falls asleep!
+is sleeping...
+wakes up!
+Scared
+is scared...
+is scared stiff.
+is no longer afraid!
+Stun
+is stunned!
+regains focus!
+Guard
+Alive
+Cover
+Rage
+became enraged!
+is enraged!
+calmed down.
+Hide
+is hiding.
+was found!
+Bottle
+Broken Bones
+got some bones shattered!
+feels the crunch!
+'s bones are mended!
+Ironbody
+is buffed up!
+Counterattack
+Speedy
+Solid
+assumes a firm stance!
+is immovable!
+lost his footing.
+Fire Force
+acquires the power of fire!
+Ice Force
+acquires the power of ice!
+Geared Up
+Ailment Guard
+MP Cost Down
+Burning
+is on fire!
+'s flames went out!
+Deep Poison
+is poisoned badly!
+Wary
+is on the edge!
+is stressed!
+is stressing out!
+gets a grip!
+Crying
+is tearing up.
+is crying
+stopped crying
+Paralysis
+becomes paralyzed!
+is paralyzed!
+is unable to move!
+is no longer paralyzed!
+Weird
+starts to feel weird...
+feels weird...
+feels relieved.
+Bleed
+'s been cut open!
+is bleeding out!
+stopped bleeding!
+Hungover
+is hungover.
+sobered up.
+Drunk
+is drunk.
+Stink
+Pissed
+is pissed!
+is a lunatic! Watch out!
+Taunt
+is attracting attention!
+lost everyone's attention.
+Withdrawal
+is craving Joy.
+fought off his craving.
+Joyed
+is over Joyed.
+is no longer happy...
+Fallen
+has fallen down!
+is trying to get up!
+is back to their feet!
+Cool
+Super Cool
+Defend
+Extorted
+is being extorted!
+stood up for it's beliefs.
+Oiled Up
+is covered in oil!
+is oiled up!
+is no longer oiled up!
+Party Mode
+is now in party mode!
+is partying hard!
+lost the desire to party...
+Depression
+is depressed.
+Dead
+is dead!
+Flustered
+becomes flustered!
+is flustered!
+is no longer flustered!
+Tired
+is tired.
+is waking up.
+Empowered
+is empowered.
+Rupture
+is painting the environment red!
+just popped!
+is leak free.
+Presence
+'s got a dominating aura.
+is sinister.
+looms menacingly.
+lost relevance.
+Fire Powered
+lost his powers!
+is empowered!
+Immortal
+Wet
+Nauseous
+feels nauseous.
+isn't alright...
+no longer feels nauseous.
+Blue
+is blue
+is no longer blue.
+Nasty
+is oooh so filthy!
+soaks in the filth.
+can't scrub it off.
+no longer feels dirty.
+Bullied
+is picked on!
+Levitate
+is ascending.
+has been shot DOWN!
+Winded
+lost his breath!
+is gasping for air!
+regained tempo.
+Spooked
+Twisted
+contorts.
+loosens up.
+Off Balance
+has regained balance.
+Armed
+is packing!
+was disarmed.
+Disarmed
+Untouchable
+Deafened
+has been deafened!
+is deaf.
+'s hearing comes back!
+Dodged
+is out of the way.
+rejoins the fray!
+Tense
+'s eyes dart around.
+lost concentration.
+Lung Cancer
+Armored
+Cursed
+Amphibious
+Damage Up
+Lucky bastard
+Goldenbody
+Satiated
+Hypnotized
+was hypnotized!
+is hypnotized! Watch out!
+came to his senses.
+Dangerous
+will kill.
+Shell-shocked
+has gotten shellshocked!
+is shellshocked!
+is getting his senses back!
+Heart Attack
+'s heart stopped beating.
+'s ol' ticker is back in force!
+Regeneration
+Jackpot Mark
+Deep Hungover
+Dissipating
+is losing mud!
+is no longer losing mud.
+Plan
+Plan B
+Mud Covered
+has been covered in mud!
+is covered in mud!
+is trying to get rid of the mud!
+gor rid of the mud!

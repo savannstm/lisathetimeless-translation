@@ -1,0 +1,122 @@
+Buy
+Sell
+Cancel
+Possession
+Current Exp
+To Next %s
+Save to which file?
+Load which file?
+File
+%s's Party
+%s emerged!
+%s got the upper hand!
+%s was surprised!
+%s has started to escape!
+You can't escape!
+%s was victorious!
+%s was defeated.
+%s EXP received!
+%s\\Mags found!
+%s found!
+%s is now %s %s!
+%s learned!
+%s uses %s!
+An excellent hit!!
+A painful blow!!
+%s took %s damage!
+%s recovered %s %s!
+%s gained %s %s!
+%s lost %s %s!
+%s was drained of %s %s!
+%s took no damage!
+Miss! %s took no damage!
+Drained %s %s from %s!
+Missed! %s took no damage!
+%s evaded the attack!
+%s nullified the power!
+%s reflected the power!
+%s counterattacked!
+%s protected %s!
+%s's %s went up!
+%s's %s went down!
+%s's %s returned to normal.
+There was no effect on %s!
+All Foes
+One Random Foe
+%d Random Foes
+All Allies
+All Dead Allies
+One Random Ally
+%d Random Allies
+-%s SP
++%s SP
+-%s TP
++%s TP
+DRAIN
+CRITICAL!
+MISS
+EVADE!
+FAILED
+WEAKPOINT
+RESIST
+IMMUNE
+ABSORB
+Execute
+Input Attacks
+Change
+Remove
+Revert
+Finish
+-Empty-
+-Remove-
+- No Data -
+Equipment
+New Skills
+You
+%s won the battle.
+%s has leveled up!
+Leftovers
++%sEXP
+LEVEL UP!
+MAX LEVEL
+"We won! What an exciting fight!"
+"I didn\'t even break a sweat."
+"That wasn\'t so tough."
+"Let\'s fight something harder!"
+"Yes! Level up!"
+"I\'ve gotten stronger!"
+"Try to keep up with me!"
+"I\'ve grown again!"
+"I\'ll be taking these."
+"To the victor goes the spoils."
+"The enemies dropped something!"
+"Hey, what\'s this?"
+Options/Quit
+OFF
+ON
+None
+Window Red
+Change the red colour tone for windows.\n
+Hold SHIFT to change increment by 10.
+Window Green
+Change the green colour tone for windows.\n
+Window Blue
+Change the blue colour tone for windows.\n
+BGM Volume
+Change the volume used for background music.\n
+BGS Volume
+Change the volume used for background sound.\n
+SFX Volume
+Change the volume used for sound effects.\n
+Instant Text
+Normal
+Instant
+Set message text to appear one-by-one or instantly.
+Battle Animations
+Hide
+Show
+Hide animations during battle to speed up battles?
+Return to Title Screen
+Go back to the title screen.
+Quit Game
+Quit the game.

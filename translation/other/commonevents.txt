@@ -1,0 +1,118 @@
+You got an empty bottle.
+You dumped out the dirty water.
+You can't inspect this right now.
+Close
+You can't take off your helmet underwater.
+Dumbass.
+Trust for Suckers:
+You're an idiot.
+The End.
+Never give up.
+You can't go here without\#diving equipment.
+A member of your gang has passed...
+Cancel.
+4\I[348] - \I[70]Mystery Jerky
+3\I[348] - \I[375]Tube of Salt
+6\I[348] - \I[064]Fancy Perfume
+9\I[348] - \I[009]Lucrative Tea
+\nblt{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP.
+Buy
+Cancel
+You got a Mystery Jerky!
+You don't have enough items.
+\nblt{\I[375]Tube of Salt}Other than being used in salting\#of meat, it is also a common substitute\#for bullets.
+You got a Tube of Salt!
+\nblt{\I[064]Fancy Perfume}The sweet scent revives\#an ally fully.
+You got a Fancy Perfume!
+\nblt{\I[009]Lucrative Tea}An unsafe blend of tea.\#Revives TP and SP.
+You got a Lucrative Tea.
+12\I[348] - \I[377]Dangerous, too?
+12\I[348] - \I[376]Pencil Behind an Ear
+\nblt{\I[377]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?
+You got the "Dangerous, too?" eyewear.
+\nblt{\I[376]Dangerous, too?}With glasses this stupid,\#how can you not feel cool?
+You got the "Pencil behind an Ear" accessory.
+A Mystery Jerky has been stolen from\#your inventory.
+Your party feels stressed now.
+Your mags have been stolen.
+Your party feels weird now.
+A Perfume has been stolen from\#your inventory.
+Your party has been confused.
+Your party feels depressed now.
+Your party has been hypnotized.
+The revolver's jamming...
+You don't have any bullets.
+1\I[479] - \I[453]Ace of Spades
+1\I[463] - \I[366]Rusted 18-shot Revolver
+\nblt{\I[453]Ace of Spades}Double up or quit,\#the devil does splits.
+1\I[070] 1\I[003] - \I[069]Domestic Jerky
+1\I[003] - - - \I[009]Lucrative Tea
+1\I[70] 1\I[04] - \I[511]Potato Chips
+1\I[11] 1\I[04] - \I[70]Mystery Jerky
+\nblt{\I[069]Domestic Jerky}Recovers 1000 HP.
+You got a Domestic Jerky!
+You got a Lucrative Tea!
+\nblt{\I[511]Potato Chips}Recover 1000 hp. (Sold\#for a Mystery Jerky and\#a Potato Liquor.)
+You got Potato chips!
+\nblt{\I[70]Mystery Jerky}Dried meat of common Olathian\#animals. Recovers 300 HP. (Sold for\#a Bottle of Dirty Water and an\#Empty Bottle.)
+1\I[004] 1\I[003] - \I[000]Perfume
+1\I[11] - - - \I[004]Onion Vodka
+1\I[004] 1\I[003] - \I[091]Party Liquor
+1\I[004] - - - \I[507]Chocolate Bar
+\nblt{\I[000]Perfume}The sweet scent revives an ally.\#(Sold for an Onion Vodka and a Diet\#Cocola Cola.)
+You got a Perfume!
+\nblt{\I[004]Onion Vodka}Capable of getting you drunk.\#Recovers 300 HP. (Sold for a Bottle\#of Dirty Water.)
+You got an Onion Vodka!
+\nblt{\I[091]Party Liquor}Capable of getting you drunk. Recovers\#200 HP of each party member.\#(Sold for an Empty Bottle and a Diet\#Cocola Cola.)
+You got a Party Liquor!
+\nblt{\I[507]Chocolate Bar}An opened bar of chocolate. Recovers\#280 HP. (Crafting Material.)\#(Sold for a Potato Liquor.)
+You got a Chocolate Bar!
+1\I[419] 8\I[018] - \I[064]Fancy Perfume
+1\I[003] 10\I[018] - \I[299]Doner
+1\I[003] - - - 2\I[396]Tasers
+\nblt{\I[064]Fancy Perfume}The sweet scent revives an ally Fully.\#(Sold for a Triple Horror Whiskey and\#8 Mags.)
+\nblt{\I[299]Doner}Recovers 450 HP, temporarily\#increasing max. HP by 33% and decreasing max.\#SP by 33%. Makes you feel weird.\#(Sold for a Diet Cocola Cola and 10 Mags.)
+You got a Doner!
+\nblt{2\I[396]Tasers}A rare electroshock weapon.\#Paralyses the enemy.\#(Sold for a Cocola Cola.)
+You got 2 Tasers!
+1\I[463] 8\I[018] - \I[032]Old Revolver
+2\I[000] - - - \I[064]Fancy Perfume
+\nblt{\I[064]Fancy Perfume}Sweet scent revives\#an ally fully.
+1\I[446] - - - \I[005]Gift Bag
+\nblt{\I[005]Gift Bag}(Contains a pair of "Dangerous, too? glasses,\#a Mystery Jerky and 10 mags.) With \I[377] glasses\#this stupid, how can you not feel cool?
+You got a "Dangerous, too?", a Mystery\#Jerky and 10 mags!
+3\I[011] - - - \I[011]Bottle of Water
+\nblt{\I[11]Bottle of Water}An extremely refreshing drink.\#Cures many aliments, including Scared,\#Weird and Hangover. (Sold for 3 Bottles\#of Dirty Water.)
+You got a Bottle of Water!
+Tastes like shit...
+Absolutely disgusting.
+Even shit probably tastes better.
+*Sounds of pain*
+\I[299] + \I[330] + \I[331] = \I[329]Superdoner
+\nblt{\I[329]Superdoner}A doner with pineapples and mayo.\#Probably the last one of its kind.
+You got a Superdoner!
+\I[430] + \I[382] = \I[431]Revolver with a Flag
+\nblt{\I[431]Revolver with a Flag}Scare the shit out of the enemy with\#this classic ruse.\#Can be used only by Elton.
+You got a Revolver with a Flag!
+\I[004] * 4 = \I[010]Mixed Drink
+\nblt{\I[010]Mixed Drink}An unsafe blend of alcohol drinks. Recovers 1200 HP.\#Makes you Deeply Hungover, Pissed and Oiled Up.\#(Requires a Potato Liquor, an Onion Vodka, a Party\#Liquor and an Olathian Whiskey to craft)
+You got a Mixed Drink!
+\I[507] + \I[509] = \I[508]Pickle with Chocolate
+\nblt{\I[508]Pickle with Chocolate}A result of your diseased imagination\#degrading more and more. Makes you emotional.
+You got a Pickle with Chocolate.
+State Manual
+Pages 1, 2
+Pages 3, 4
+Pages 5, 6
+Axioms
+"Never trust those "There's a girl" posters."
+"Never trust guys in masks."
+"Never trust signs that say "Not a cliff.""
+"Never trust eye doctors."
+"All liquor, no matter how cheap."
+"Never trust fish."
+"Trust your eyes."
+"Never trust gypsies."
+"If all else fails, kick em' in the groin."
+"You don't need to be young to kick some ass."
+Added to the Journal.

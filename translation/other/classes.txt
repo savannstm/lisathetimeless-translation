@@ -1,0 +1,11 @@
+Conjurer
+<command list>\#skill list\#defend\#items\#</command list>
+Walking Corpse
+<command list>\#<command name: skill 213>\#skill list\#defend\#items\#</command list>
+Cart Master
+<command list>\#<command name: skill 503>\#skill list\#defend\#items\#</command list>
+Ern Himself
+<command list>\#<command name: skill 455>\#skill list\#defend\#items\#</command list>
+Aged Vagrant
+<command list>\#<command name: skill 882>\#skill list\#defend\#items\#</command list>
+Unassuming Warrior

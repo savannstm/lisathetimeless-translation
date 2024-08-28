@@ -1,0 +1,135 @@
+\nblt{Batis}Got you!
+\nblt{???}Gotcha, dumbass!
+\nblt{???}You are going to pay for\#those mags, Killington!
+\nblt{Batis}You are either getting the hell outta there,
+\nblt{Batis}or your corpse will\#be pecked by crows!
+\nblt{Quint}I have no regrets.
+\nblt{Batis}Just like in that nightmare...
+\nblt{Quint}Now it's your turn, bitches!
+\nblt{Crocco}Get your ass back here,\#Fight like a man!
+Your knees are shaking?\#That's right!
+Fear me!
+That's enough.
+\nblt{Crocco}Now face me,\#the almighty Ripper!
+\nblt{Crocco}The Prince of the Universe!
+\nblt{Crocco}The Destroyer of Evil!
+\nblt{Crocco}The Trainer of Heroes!
+\nblt{Crocco}The Creator of Spoon!
+\nblt{Crocco}The Sex-symbol of Olathe!
+\nblt{Crocco}The Killer of Hitler!
+\nblt{Crocco}The youngest man\#in the world!...
+\nblt{Crocco}...and of course the unrecognized\#headman of the Gatormen!
+\nblt{Crocco}Your knees are shaking?\#That's right!
+\nblt{Crocco}Fear the Gatormen!
+\nblt{Crocco}Enough, enough!
+\nblt{Lon}Your mags - my last chance to survive...
+\nblt{Lon}Don't take it amiss.
+\nblt{Lon}Ouch!
+\nblt{Jett}No remorse!
+\nblt{Jett}I just wanted to work at crematorium.
+You got a Potato Liquor!
+You got a nugget!
+You got a Quadruple Horror Whiskey!
+You got a Jackpot!
+The Slot Machine's defense decreased!
+\nblt{Leighton}You're next, Four-Eyes!
+\nblt{Leighton}Get out of my river!
+\nblt{Leighton}Die already you moronic vagrant!
+\nblt{Leighton}You used fire in water.\#What did you think was gonna happen?
+\nblt{Leighton}Don't lose your glasses\#in the water now, you clumsy schmuck.
+\nblt{Leighton}I'll pierce your heart, old man!
+\nblt{Leighton}Shit.
+Mending Trash joins the battle!
+\nblt{Smith}Hey Joe! Why aren't you helping?
+\nblt{Joe}Uuughh...
+\nblt{Smith}Your luck runs out!
+\nblt{Smith}Get up again. I dare you!
+\nblt{Smith}When you get to hell, tell em' to save\#a seat for me at the bingo table!
+You give old men like me a bad name!
+You're a disgrace to old timers everywhere!
+Should've stuck to golf!
+\nblt{Smith}At this rate, you're gonna\#run out of teeth to spit up!
+\nblt{Smith}Are you even trying?!
+\nblt{Smith}I believe in overkill!
+\nblt{Smith}I dont need no stupid magic to kick your ass!
+\nblt{Smith}You've got finger beams.\#And I've got a knuckle sandwich!
+\nblt{Smith}You cannot burn me, I'm already on fire!
+\nblt{Joe}Fuck this...
+The monster's mud is dissipating!
+Lunatic Trash joins the battle!
+\nblt{Steven}OUTTATHEWAYFOUREYES.
+Berny temporarily left your party.
+\nblt{Steven}SOAREWEGONNALEARN\#GATORCLAMPINGHERE?
+\nblt{Elton}No, I'm here to learn\#dodging.
+\nblt{Steven}SHIT...\| THISISSOMEBORINGSHIT!
+\nblt{Steven}BUTANYWAY... I'LLGIVEYOU\#SOMETURNSTODODGEGRANDPA.
+\nblt{Steven}USETHESETURNSTODODGE,NOBULLSHIT.
+Elton is asked to dodge.
+New skill learned.
+\nblt{Steven}MMMMM!HEREICOME!
+\nblt{Steven}\{OOOOOOOOOOOOOOOOOOOOOOOOOOOO
+\nblt{Steven}OOPS!HE'SOUT!MMMMM!
+\nblt{Master}Give him some food.
+\nblt{Steven}YESMASTER!
+\nblt{Elton}AAAARGH!
+\nblt{Steven}STOPSCREAMINGYOUDUMMY!
+\nblt{Steven}YOU'REDOINGTHEDODGINGWRONG!
+\nblt{Steven}TRYTOACTUALLYDODGENOW.MMMMM!
+\nblt{Steven}LIKELIKE...JUMPOUTOFMYWAY!
+\nblt{Steven}YOUGETWHATIMEAN?MMMMM?
+\nblt{Elton}AARGH!
+Elton is asked to actually dodge.
+Dodge skill updated.
+\nblt{Steven}YYYYEEEEEEEEEEEEEEEEAAAAHHHHHHH
+\nblt{Steven}\{WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+\nblt{Steven}GOODJOB!YOUDODGEDALLMYATTACKSMMMM!
+\nblt{Steven}NOWBRINGYOURRACCOONPELTFRIEND!
+\nblt{Elton}Berny.
+\nblt{Berny}Aye.
+Berny joined your party!
+\nblt{Steven}IT'STIMEFORMYFINALATTACK!
+\nblt{Steven}BONEBREAKING!
+\nblt{Steven}YOU,GRANDPA,TELLYOURFRIENDTO\#LOOKOUT!
+\nblt{Elton}Look out?
+\nblt{Steven}YES!LOOKOUT.MMMMM.
+\nblt{Steven}YOURFRIENDATTACKSANDTHEN\#YOUBOTHDODGEINTHESAMEMOMENT.\#UNDERSTOOD?
+Incoming Dangerous attack.
+You must dodge.
+Look Out! skill learned.
+\nblt{Steven}\{TIMETOMEETYOURMAKER!
+\nblt{Steven}\{\{OOOOOOOOOOOOOOOOOOOO
+A long debuff has been inflicted on Elton.
+You've failed to dodge.
+A long debuff has been inflicted on Berny.
+You've successfully dodged a dangerous attack!
+\nblt{Frank}You're tougher\#than you look.
+\nblt{Frank}But I know better than\#to let my guard down.
+You lost your Chair.
+You lost your Champion Chair.
+\nblt{Frank}Grr...\.\. where's my\#walkie talkie?
+\nblt{Frank}How the hell are\#you still standing?!
+\nblt{Frank}You...\| old...\. bastard...
+\nblt{Frank}I'm not going down!
+\nblt{Frank}Not yet...
+\nblt{Frank}All you had to do...\| was\#walk the other way...
+\nblt{Ted}Uh oh!
+\nblt{Ted}Time to get outta here!
+\nblt{Ted}Aa-a-ah!
+\nblt{Ted}Retreat!
+\nblt{Edward}Who's that?
+\nblt{Berny Connorfold}The hell's your problem,\#ganging up on a man like that?!
+\nblt{Berny Connorfold}Let's clobber this punk, Elton!
+Berny Connorfold has joined your party!
+Tinder Box skill updated.
+\nblt{Brad}Guess it's all up to me now.
+\nblt{Brad}Time to get serious!
+\nblt{Brad}I'm proud of myself.
+\nblt{Brad}What about you?
+\nblt{Andre}Ooh! My back!
+\nblt{Juan}I'll show you!
+\nblt{Juan}I've been crushed...
+\nblt{Kirk}I will bury you!
+\nblt{Kirk}Now this ain't what I expected.
+\nblt{Flint}I just...
+\nblt{Flint}...was defeated...
+\nblt{Flint}...by an old pushover with a chair...

@@ -1,0 +1,284 @@
+Attack
+Damages the enemy.
+attacks!
+Guard
+Protects user and reduces damage taken.
+guards.
+Fireball
+Jolly Fireball
+Blast of Berny's flaming emotions.
+throws a fireball!
+Finger Beam 1
+A concentration of energy blasted from the finger.\#Gains 4-5 TP.
+fires a beam!
+Boulder Toss
+Toss a modest boulder at the enemy's head.\#Inflicts Fallen and Weird.
+throws a boulder!
+Flaming Mittens
+The user accesses to the fire based attacks and\#recover 250 HP.
+charges his fists with fire!
+Finger Beam 2
+A powerful concentration of energy blasted\#from the finger. Makes you fall. Gains 25-30 TP.
+Weak Defence
+Ready everyone for any hard hits. [Magic resistance,\#immunity to certain debuffs such as Fallen.]
+takes a stance.
+Pass Out
+Pass out and regain HP over time.
+falls asleep...
+Cap Toss
+tosses a cap into the eyes.
+Tinder Box
+Gives Berny access to fire-based attacks. If he's\#unable to act, Elton does a defensive attack.
+Light a match and let your emotions out.
+screams with fire!
+lights a match.
+Look Out!
+Warn your allies of an incoming attack.\#Applies dodge to everyone.
+sounds the alarm!
+Groin Kick
+A trick as dirty as it is effective. May cause stun,\#crying, and sterility. Damages Elton by 90.
+delivers a kick to the groin!
+Disarming Strikes
+Knock off the armed enemy's weapon. Damages\#Elton by 50 hp.
+swings at the hand!
+Dodge
+Drunken Barage
+A mix of Lucha Libre and being totally shit faced.
+is ready to rumble!
+Slap
+gives 'em a slap!
+(Not So) Direct Hit
+does a headbutt!
+Uppercut
+uppercuts that fool!
+uppercuts!
+Shove
+gets pushy!
+Beatdown
+(ASA) An uncoordinated assault on an enemy.
+flails his arms!
+Balloon Fist
+Blow your fist to boost your ATK. Such power comes\#at a cost: when the boost ends, everyone gets hurt.
+inflates his fist! Impossible!
+Bite
+Bite M.atk
+bites down hard!
+Gator Clamp
+does a Gator Clamp!
+Grope
+strokes you...
+Roar
+roars in your ear.
+Groin kick
+ruins your day.
+Dropkick
+dropkicks!
+Punch
+flails!
+Scratch
+scratches!
+Dirt Kick
+kicks up dirt!
+Back Rub
+gives a massage...
+Grin
+is grinning at you.
+Taste
+licks you...
+Cry
+Is crying deeply.
+Blood cough
+coughed up blood!
+Give me your mags
+begs for your mags.
+Firebomb
+threw a firebomb!
+Glare
+is glaring at you...
+Spraying the Eyes
+sprays your eyes!
+Pick weapon up
+gets his mojo back!
+Big Swing
+swings with full force!
+Solid Punch
+unleashes a direct hit!
+Stomp
+stomps you out!
+Tank
+Block
+is defending himself...
+Sweep
+sweeps at your legs!
+Stiff Arm
+gives a stiff arm!
+Trash Talk
+is talking serious trash!
+Piledriver
+performs a Piledriver!
+Chop
+chops!
+Battlecry
+vibrates with rage!
+Body Drop
+comes crashing down!
+Bottle Throw M.atk
+Bottle Throw
+threw a bottle!
+Geyser of Garbage
+unleashes The Geyser!
+Hook Kick
+hook kicks!
+Deer Horn
+Wizard Poke
+pokes at the vital points!
+Eat
+stuffs something in his mouth.
+Kick
+kicks!
+Smoke Bomb
+is shrouded in smoke!
+Brain Chop
+performs a brain chop!
+Headbutt
+headbutts!
+Yell
+screams.
+Demoralising Puke
+vomits on you!
+Banging head
+bangs his head against the ground!
+Big slice
+Slice
+swings!
+Triple Attack
+goes buck wild!
+Shove
+is pushy.
+Drink beer
+kills his liver.
+Flaming Tubiteika
+charges himself with fire!
+Persecution
+incites!
+Cough
+coughs.
+Club Strike
+clubs at you!
+Growling Tackle
+charges you!
+Double punch
+unleashes direct hits!
+Realization
+realized he's outnumbered!
+Scruff Throw
+throws you at the wall!
+Power Fist
+is handling real power!
+Bombard's combo
+tears you down!
+Elbow strike
+strikes with his elbow!
+Tiger Suplex
+performs a Tiger Suplex!
+Steel Chair
+has a foreign object!
+Rage build!
+vibrates with rage!
+Mud Cannon
+shoots mud out of the hand!
+Edge Closer
+gets closer to you.
+SP drain
+drains your energy!
+Mud Vomit
+vomits on you.
+Torpedo
+fires a torpedo!
+Releasing Harpoon
+draws its harpoon!
+Aim
+tries to aim...
+Harpoon
+fires its harpoon!
+Hypnosis
+hypnotises you!
+Fly near Ear
+flies past your ear.
+Ironbody
+is flexing hard!
+Defend Friend
+is trying to defend his friend.
+Seriously?
+is astounded by your stupidity.
+Devastating Chomp
+bites your head!
+Bash with weapon
+bashes you with his weapon!
+Cannon Jam
+'s cannon is jamming.
+Mongolian Chop
+performs a Mongolian Chop!
+Claw Attack
+slashes!
+Hide
+hides behind a bush.
+Jackpot discharge
+discharges electricity!
+Bite and tear
+tears you in pieces!
+AntiBuff
+Weird Gas
+blew a weird gas at you.
+Unnerving Energy
+unnerves you.
+Exhaust
+blew forth exhaust!
+Knife Hand
+chops like a knife!
+Water Bottle Throw
+threw a bottle of water!
+Bombard's Rage
+Hard stomp
+stomps at your chest.
+Weaker combo
+Gearing up for Bonebreak
+spreads his hands strangely.
+Diving into the chest
+concentrates on your chest...
+Heart Squeeze
+squeezes your heart!
+Bone Break
+breaks your bones!
+Nausea
+feels nauseous.
+Bully [MALTEN]
+bullies you.
+Pump Up
+is going crazy.
+Puke
+pukes!
+Combo 1
+rumbles!
+Cue Joust
+rams you with his cue!
+Strike
+bashes you with a crowbar!
+Shred
+at full force!
+Sharp strike
+strikes with crowbar's claw!
+sweeps at your legs with a crowbar.
+Dirt sweep
+sweeps up dirt!
+Club Joust
+rams you with his bat!
+Club Combo
+clubs lke mad!
+Beretta jab
+throws jabs!
+Lunatic trash Slam 1
+Lunatic trash Slam 2
+jumps at you!
+QUINT FF
+is preparing to attack!

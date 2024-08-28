@@ -1,0 +1,17 @@
+Elton
+Broll
+An aged vagabond just trying to live out what\#little time he has left.
+<win quotes>\#\elb Serves ya right!\#[new quote]\#\elb My back is killing me...\#[new quote]\#\elb Ugh.. I need a drink...\#</win quotes>\#<level quotes>\#\elb I've still got it.\#[new quote]\#\elb Hey! My knees\#stopped popping!\#[new quote]\#\elb Tch, "past your\#prime" my ass...\#</level quotes>\#</drops quotes>\#\elb Back on the\#road again.\#[new quote]\#\elb Any Liqueur?\#[new quote]\#\elb Oh good, more\#crap to carry...\#</drops quotes>
+Berny
+Connorfold
+Boring accountant turned aspiring mystic.\#His soul now burns bright as ever!
+<win quotes>\#\elb Hurrah!\#[new quote]\#\elb If you come back,\#I won't go easy on you!\#[new quote]\#\elb Bet you weren't\#expectin' that, eh?\#</win quotes>\#<level quotes>\#\elb Practice makes perfect.\#[new quote]\#\elb Getting better and better!\#[new quote]\#\elb I feel all tingly.\#</level quotes>\#<drops quotes>\#\elb What do have?\#[new quote]\#\elb Is this useful?\#[new quote]\#\elb I'll just... nab some of this...\#</drops quotes>
+John
+Spin
+A WW1 vet with over 10 decades of regret weighing\#on his shoulders. Do not deny him his redemption.
+<win quotes>\#\elb ...\#</win quotes>\#<level quotes>\#\elb ...\#</level quotes>\#<drops quotes>\#\elb ...\#</drops quotes>
+Ern
+Popwell
+A bummy bum willing to help his friends in need.\#Known for his killer drunken haymaker.
+<win quotes>\#\elb Huh? Is.. is it over..?\#[new quote]\#\elb ...we won? We won!\#[new quote]\#\elb You guys sure do get in alot of fights.\#</win quotes>\#<level quotes>\#\elb I'll sock em' real good next time!\#[new quote]\#\elb Good thing I've been doing my stretches.\#[new quote]\#\elb My callus thickens!\#</level quotes>\#<drops quotes>\#\elb So uhh... what now?\#[new quote]\#\elb You fellas mind if I keep some stuff for myself?\#[new quote]\#\elb Can't wait to tell the boys at the bar about this!\#</drops quotes>
+<win quotes>\#\elb Hurrah!\#[new quote]\#\elb If you come back, I won't\#go easy on you!\#[new quote]\#\elb Bet you weren't expectin\#that, did ya?\#[new quote]\#</win quotes>\#<level quotes>\#\elb Practice makes perfect.\#[new quote]\#\elb Getting better and better!\#[new quote]\#\elb I feel all tingly.\#[new quote]\#</level quotes>\#<drops quotes>\#\elb What do have?\#[new quote]\#\elb Is this useful?\#[new quote]\#\elb I'll just... nab some of this...\#[new quote]\#</drops quotes>

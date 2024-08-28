@@ -1,0 +1,44 @@
+Skills
+Powers
+Magic
+MaxHP
+MaxSP
+ATK
+DEF
+S.ATK
+S.DEF
+AGI
+LUCK
+Weapon
+Shield
+Head
+Body
+Fight
+Escape
+Attack
+Guard
+Items
+Equipment
+Status
+Formation
+Save
+Quit
+Weapons
+Armours
+Key Items
+Change
+Optimize
+Clear
+New Game
+Continue
+To Title
+Cancel
+Level
+LV
+Health Points
+HP
+Skill Points
+SP
+Tech Points
+TP
+Lisa the Timeless
