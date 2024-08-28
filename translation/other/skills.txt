@@ -27,6 +27,7 @@ Pass out and regain HP over time.
 falls asleep...
 Cap Toss
 tosses a cap into the eyes.
+gets motivated by a clean shot!
 Tinder Box
 Gives Berny access to fire-based attacks. If he's\#unable to act, Elton does a defensive attack.
 Light a match and let your emotions out.
