@@ -13,6 +13,7 @@ Weapon
 Shield
 Head
 Body
+Accessory
 Fight
 Escape
 Attack
