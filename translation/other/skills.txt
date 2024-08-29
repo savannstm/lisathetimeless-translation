@@ -33,6 +33,7 @@ Gives Berny access to fire-based attacks. If he's\#unable to act, Elton does a d
 Light a match and let your emotions out.
 screams with fire!
 lights a match.
+receives some aid from Elton!
 Look Out!
 Warn your allies of an incoming attack.\#Applies dodge to everyone.
 sounds the alarm!
@@ -42,6 +43,18 @@ delivers a kick to the groin!
 Disarming Strikes
 Knock off the armed enemy's weapon. Damages\#Elton by 50 hp.
 swings at the hand!
+Get a Bottle
+Grab a fragile bottle from your pocket. If you hold\#it for too long, you throw it at a random enemy.
+grabs his bottle.
+Cool Pose
+Make a cool pose, recover SP.
+strikes a pose!
+Glassing Attack
+Break your bottle and stab the enemy right\#into the stomach.
+perfroms a glassing attack!
+Break Bottle
+Break your bottle with a swift head for\#a devious weapon. Drains less HP while drunk.
+uses his head.
 Dodge
 Drunken Barage
 A mix of Lucha Libre and being totally shit faced.
@@ -266,9 +279,11 @@ rams you with his cue!
 Strike
 bashes you with a crowbar!
 Shred
-at full force!
+swings at full force!
 Sharp strike
 strikes with crowbar's claw!
+Fast Sandwich
+stuffs a sandwich in his mouth.
 sweeps at your legs with a crowbar.
 Dirt sweep
 sweeps up dirt!
