@@ -42,4 +42,5 @@ Skill Points
 SP
 Tech Points
 TP
+Mags
 Lisa the Timeless
