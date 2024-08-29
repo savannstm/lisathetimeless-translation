@@ -91,6 +91,7 @@ MAX LEVEL
 "To the victor goes the spoils."
 "The enemies dropped something!"
 "Hey, what\'s this?"
+ NOW
 Options/Quit
 OFF
 ON
